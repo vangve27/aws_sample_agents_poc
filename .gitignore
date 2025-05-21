@@ -1,2 +1,4 @@
 __pycache__/*
 .env
+new_report.md
+uv.lock
