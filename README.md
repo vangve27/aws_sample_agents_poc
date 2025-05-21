@@ -5,7 +5,7 @@ AWS Infrastructure Security Audit And Reporting Crew project, wil help you perfo
 
 ### Python Version Requirements
 
-CrewAI requires Python >=3.10 and <3.13. Here's how to check your version:
+CrewAI requires Python >=3.10 and <3.13. Here's how to check your version(code tested with 3.12):
 
 ```bash
 python3 --version
@@ -87,5 +87,5 @@ This example, unmodified, will run the create a `security_report.md` file with t
 The AWS Infrastructure Security Audit crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to perform security audits and generate comprehensive reports. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
 
 ```Reference
-Reference from AWS_SAMPLES
+Referenced from AWS_SAMPLES
 ```
