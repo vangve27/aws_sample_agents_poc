@@ -49,7 +49,7 @@ Then edit the `.env` file with your actual credentials. The following variables 
 ```env
 # AWS Credentials for Bedrock
 AWS_REGION_NAME=us-east-1
-MODEL=bedrock/anthropic.claude-3-sonnet-20240229-v1:0
+MODEL=bedrock/anthropic.claude-3-5-sonnet-20240620-v1:0
 SERPER_API_KEY=your_serper_api_key
 ```
 
